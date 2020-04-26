@@ -14,10 +14,10 @@ function sayHiToGrandma(str){
   if (str.toEqual(str.toLowerCase()))
      return "I can't hear you!";
 
-  if (str.toEqual(str.toUpperCase())
+  if (str.toEqual(str.toUpperCase()))
     return "YES INDEED!";
 
-  if (str.toEqual("I love you, Grandma.")
+  if (str.toEqual("I love you, Grandma."))
       return "I love you, too";
 
 
