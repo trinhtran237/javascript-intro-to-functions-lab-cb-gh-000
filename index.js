@@ -22,5 +22,3 @@ function sayHiToGrandma(str){
   }
   
 }
-
-
