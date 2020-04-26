@@ -14,5 +14,5 @@ function sayHiToGrandma(str){
   if (str.toEqual(str.toLowerCase()){
      return "I can't hear you!";
   }
-   
+
 }
